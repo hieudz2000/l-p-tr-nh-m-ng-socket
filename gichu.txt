@@ -1,0 +1,2 @@
+client chay bang clion 
+server : gcc  -pthread main.c -o server  `mysql_config --cflags --libs`
